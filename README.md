@@ -8,3 +8,4 @@ Taller enfocado en los siguientes temas:
 - TDD
 - Scrum: Roles, ceremonias, artefactos
 - Metricas
+- CI/CD
